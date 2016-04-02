@@ -1,2 +1,2 @@
-Git is a good thing.
-I love it.
+Git is a bad thing.
+I hate it.
